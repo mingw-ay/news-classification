@@ -1,0 +1,6 @@
+.vscode
+__pycache__
+Pipfile
+Pipfile.lock
+dataset/*
+raw_data/cnews/*
